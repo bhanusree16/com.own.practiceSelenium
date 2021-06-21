@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="POM">
+  <test name="Pom_tests">
+    <classes>
+      <class name="POM_test_cases.gmail_login"/>
+      <class name="POM_test_cases.WordpressLogin"/>
+    </classes>
+  </test> <!-- Pom_tests -->
+</suite> <!-- POM -->

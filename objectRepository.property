@@ -1,0 +1,9 @@
+chrome_path = C:\\eclipse\\Drivers\\chromedriver.exe
+
+firefox_path = C:\\eclipse\\Drivers\\geckodriver.exe
+
+automation_url = https://learn-automation.com/
+
+wordpress_url = https://wordpress.com/log-in
+
+excel_xlsx =C:\\Users\\jagan\\OneDrive\\Desktop\\ReadXLfile.xlsx

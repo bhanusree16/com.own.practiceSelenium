@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="scenarios">
+  <test name="sprint1">
+    <classes>
+      <class name="IFrames_windows.Two_window_Handling"/>
+      <class name="IFrames_windows.IframeDemo"/>
+      <class name="IFrames_windows.BootstrapwindowHandling"/>
+      <class name="headlessBrowser.Htmlunnitdriver"/>
+      <class name="IFrames_windows.Bootstrap_no_iframe"/>
+      <class name="dropdowns.Dropdown"/>
+      <class name="IFrames_windows.Multiple_popups"/>
+    </classes>
+  </test> <!-- sprint1 -->
+</suite> <!-- scenarios -->
