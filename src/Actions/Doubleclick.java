@@ -9,7 +9,7 @@ import org.openqa.selenium.interactions.Actions;
 public class Doubleclick {
 
 	public static void main(String[] args) throws InterruptedException {
-//		System.setProperty("webdriver.chrome.driver", "C:/eclipse/Drivers/chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "C:/eclipse/Drivers/chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://api.jquery.com/dblclick/");
 //		first you need to create actions class object then perform operations
