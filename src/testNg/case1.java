@@ -1,4 +1,4 @@
-package priority_case;
+package testNg;
 
 
 import org.testng.annotations.Test;
