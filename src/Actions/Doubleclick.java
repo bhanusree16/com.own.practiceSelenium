@@ -19,7 +19,7 @@ public class Doubleclick {
 		act.doubleClick(driver.findElement(By.xpath("//span[text()='Double click the block']//parent::body/div"))).perform();
 		Thread.sleep(2000);
 		driver.quit();
-//		comment
+
 
 	}
 
